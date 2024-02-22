@@ -1,8 +1,9 @@
 <h1>Hi, I'm Scar! <br/><a href="https://github.com/LoveRedScarlett?tab=repositories">Programmer</a>, <a href="https://www.linkedin.com/in/scar-maxwell-714888245/">IT Professional</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+- <h2>Python</h2>
   - 
+  
 <h2>📺 IT Projects</h2>
   -
 <!--
