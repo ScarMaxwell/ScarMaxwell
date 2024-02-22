@@ -1,7 +1,7 @@
 <h1>Hi, I'm Scar! <br/><a href="https://github.com/LoveRedScarlett?tab=repositories">Programmer</a>, <a href="https://www.linkedin.com/in/scar-maxwell-714888245/">IT Professional</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<b>🐍 Python</b>
+- <b> 🐍 Python</b>
   - [Population Growth Calculator](https://github.com/LoveRedScarlett/City_Population_Calculator)
 <h2>📺 IT Projects: </h2>
 
