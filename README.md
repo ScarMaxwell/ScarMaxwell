@@ -3,6 +3,7 @@
 
 - <b> 🐍 Python</b>
   - [Population Growth Calculator](https://github.com/LoveRedScarlett/City_Population_Calculator)
+  - [Leap Year Determiner](https://github.com/LoveRedScarlett/Leap_Year_Determiner)
 <h2>📺 IT Projects: </h2>
 
 <!--
