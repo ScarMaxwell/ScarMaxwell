@@ -1,12 +1,11 @@
 # Hi, I'm Scar!
 
 💻 IT student at [Wichita State Unvirsity](www.linkedin.com/in/scarmaxwell).
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Scripting Projects:
 
-- <b> 🐍 Python</b>
-  - [Population Growth Calculator](https://github.com/LoveRedScarlett/City_Population_Calculator)
-  - [Leap Year Determiner](https://github.com/LoveRedScarlett/Leap_Year_Determiner)
-<h2>📺 IT Projects: </h2>
+### 🐍 Python:
+  - [IP Config](https://github.com/LoveRedScarlett/City_Population_Calculator)
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
