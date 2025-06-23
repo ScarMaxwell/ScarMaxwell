@@ -12,7 +12,7 @@ I’m passionate about security architecture, hands-on systems work, and buildin
 ## 👨‍💻 Scripting Projects:
 ### 🐍 Python:
 
-  - [IP Config](https://github.com/ScarMaxwell/ip_config) : A cross-platform IP configuration tool that outputs IPv4, IPv6, MAC, netmask, and broadcast info using `psutil` and `socket`.
+  - [get_ipconfig](https://github.com/ScarMaxwell/ip_config) : A cross-platform IP configuration tool that outputs IPv4, IPv6, MAC, netmask, and broadcast info using `psutil` and `socket`.
 
 
 
