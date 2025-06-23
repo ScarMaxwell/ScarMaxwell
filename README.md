@@ -1,10 +1,21 @@
 # Hi, I'm Scar!
 
-💻 IT student at [Wichita State Unvirsity](www.linkedin.com/in/scarmaxwell).
-## 👨‍💻 Scripting Projects:
+💻 I'm a Management Information Systems student at [Wichita State University](https://www.linkedin.com/in/scarmaxwell), focused on specializing in cybersecurity.
 
+I’m passionate about security architecture, hands-on systems work, and building tools that solve real problems. I’m currently sharpening my skills through certs like Network+, Security+, and CCNA, while working on personal projects and applied learning in the field.
+
+🛠️ Tools I’m learning: Python, PowerShell, Bash, Cisco, and more  
+📚 Always curious. Always building.
+
+---
+
+## 👨‍💻 Scripting Projects:
 ### 🐍 Python:
-  - [IP Config](https://github.com/LoveRedScarlett/City_Population_Calculator)
+
+  - [IP Config](https://github.com/ScarMaxwell/ip_config) : A cross-platform IP configuration tool that outputs IPv4, IPv6, MAC, netmask, and broadcast info using `psutil` and `socket`.
+
+
+
   
 
 <!--
