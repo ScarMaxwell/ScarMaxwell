@@ -4,7 +4,7 @@
 
 I’m passionate about security architecture, hands-on systems work, and building tools that solve real problems. I’m currently sharpening my skills through certs like Network+, Security+, and CCNA, while working on personal projects and applied learning in the field.
 
-🛠️ Tools I’m learning: Python, PowerShell, Bash, Cisco, and more  
+🛠️ Tools I’m learning: Python, PowerShell, Bash, Cisco, and more.
 📚 Always curious. Always building.
 
 ---
